@@ -1,0 +1,28 @@
+{
+"profile":{
+   "NAME"  :"BHARDWAJANI",
+   "E-MAIL":"pingalikumar@gmail.com",
+   "PHNO"  :"9998887776",
+   "IMAGE" :"download.jpg"
+},
+"career":{
+  "info":"1.As a begginer in the industrial field,whilw making a positive contribution 2.looking for opportunities to build my career"
+},
+"education":[
+{
+    "degree":"B-Tech",
+    "institute":"PVPSIT",
+    "data":["2016-20","82%"]
+  },
+{
+  "degree":"Intermediate",
+  "institute":"Narayana jr college",
+  "data":["2014-16","82%"]
+},
+{
+  "degree":"S.S.C",
+  "institute":"Narayana",
+  "data":["2014","88%"]
+}
+]
+}
